@@ -32,17 +32,18 @@ Welcome to **Forge** - a comprehensive ecosystem designed to revolutionize World
 ## 🛠️ The Forge Ecosystem
 
 ### ⚡ **Production Ready**
-
-#### 🔥 **Forge Lua Engine** - [Docs](http://forgeluaengine.github.io/) • [Start](https://github.com/ForgeLua/Forge)
-Modern Lua scripting for TrinityCore with enhanced hooks and clean architecture.
-
-#### 🏰 **ForgeTrinityWotlk** - [Deploy](https://github.com/ForgeLua/ForgeTrinityWotlk) • [Guide](https://trinitycore.info/en/home)
-TrinityCore 3.3.5 with Forge integrated - production-ready server solution.
+#### Nothing for the moment
 
 ### 🔬 **In Development**
 
 #### 🔨 **Hammer** ![Status](https://img.shields.io/badge/Active%20Dev-orange?style=flat-square)
 Lua-based content creation framework.
+
+#### 🔥 **Forge Lua Engine** - ![Status](https://img.shields.io/badge/Early%20Dev-red?style=flat-square)
+Modern Lua scripting for TrinityCore with enhanced hooks and clean architecture.
+
+#### 🏰 **ForgeTrinityWotlk** - ![Status](https://img.shields.io/badge/Early%20Dev-red?style=flat-square)
+TrinityCore 3.3.5 with Forge integrated - production-ready server solution.
 
 #### 🪚 **Anvil** ![Status](https://img.shields.io/badge/Early%20Dev-red?style=flat-square)
 Intelligent script generator from WowHead links to ready-to-use code.
